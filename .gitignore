@@ -1,0 +1,31 @@
+LAST_REFRESH
+*.log
+ignore
+.env
+
+*.py[cod]
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+lib
+lib64
+__pycache__
+.DS_Store
+.ipynb_checkpoints
+html/*
+datamodel/.DS_Store
+transcripts/*
+*.csv
